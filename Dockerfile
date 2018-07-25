@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY . .
 
-RUN ./mvnw package
+RUN mvn package
 
 FROM openjdk:8-alpine
 
