@@ -7,3 +7,5 @@ note that the server is not served over https so you'll have to modify /etc/dock
 <code>{
      "insecure-registries" : ["docker.conygre.com:5000"]
 }</code> 
+
+this application is available publicly [on github](https://github.com/daxaxelrod/CompactDiscSpringDataRest)
